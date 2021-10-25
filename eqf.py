@@ -5,9 +5,8 @@ import os
 import array as ar
 
 ## matriz armazenando o numero de fases que o circuito demanda e a potencia demandada
-print ("Esse aplicativo foi idealizado e implementado como atividade de Iniciaçao Científica pelo aluno:")
-print ("\t Paulo Andre de Toledo - Engenharia Civil - Universidade Federal Fluminense")
-print(" Voce e livre para usar o aplicativo para fins academicos devendo citar a fonte e seus criadores.")
+print ("Esse aplicativo foi idealizado e implementado pelo aluno: Paulo Andre de Toledo - Engenharia Civil - Universidade Federal Fluminense")
+print(" Voce e livre para usar o aplicativo para fins academicos devendo citar a fonte e seu criador.")
 print(" Voce não pode usar o aplicativo, seu codigo fonte, algoritmos ou qualquer conceito incorporado para fins comerciais.")
 print(" Voce deve informar o nome de um arquivo xlsx do Excel que contenha uma planilha chamada eqf_circuitos")
 print(" A celula A1 da planilha eqf_circuitos deve conter o numero total de circuitos do seu quadro (nc)")
